@@ -1,1 +1,9 @@
-<table> <tr> <td> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVwaHhhY3o5Z2dzem12anNsY3ZienR0NmJrejQ4OTM4bW1uOHk0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FNFLb73zRB7WHROWRS/giphy.gif" width="290" height="217" /> </td>
+## Caner Doğdu
+**Junior Web Developer**
+
+### Main Project
+👉 **cold-trading-platform**  
+A full-stack crypto trading web application.
+
+🔗 https://github.com/CanerDoqdu/cold-trading-platform
+⬇️⬇️⬇️
