@@ -5,6 +5,24 @@
 
 <div align="center">
 
+<!-- ═══ BOX — Full-width Hero ═══ -->
+
+  <tr>
+    <td align="center" width="100%" height="300" >
+      <img src="./Box.gif" width="40%" height="40%" alt="Loading..." title="BOX — Autonomous Software Delivery System" />
+      <br />
+      <strong>BOX — Autonomous Software Delivery System</strong>
+      <br />
+      <sub>🔒 Private Repository</sub>
+      <br />
+      <sub>Node.js • Docker • Claude API • GitHub API • Multi-Agent Orchestration • Real-time Dashboard • ESM</sub>
+    </td>
+  </tr>
+
+
+<br>   <br />
+
+<!-- ═══ Public Projects Grid ═══ -->
 <table width="85%">
   <tr>
     <td align="center" width="50%" height="190" valign="bottom">
