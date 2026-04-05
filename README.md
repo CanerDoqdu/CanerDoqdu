@@ -11,7 +11,7 @@
     <td align="center" width="100%" height="300" >
       <img src="./Box.gif" width="40%" height="40%" alt="Loading..." title="BOX — Autonomous Software Delivery System" />
       <br />
-      <strong>BOX — Autonomous Software Delivery System</strong>
+      <strong>ATLAS — Adaptive Task Learning Agent System</strong>
       <br />
       <sub></sub>
       <br />
