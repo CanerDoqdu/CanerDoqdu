@@ -9,7 +9,7 @@
 
   <tr>
     <td align="center" width="100%" height="300" >
-      <img src="./atlas.gif" width="40%" height="40%" alt="Loading..." title="BOX — Autonomous Software Delivery System" />
+      <img src="./atlas2.gif" width="100%" height="100%" alt="Loading..." title="BOX — Autonomous Software Delivery System" />
       <br />
       <strong>ATLAS — Adaptive Task Learning Agent System</strong>
       <br />
