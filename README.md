@@ -9,7 +9,7 @@
 
   <tr>
     <td align="center" width="100%" height="300" >
-      <img src="./atlas2.gif" width="60%" height="60%" alt="Loading..." title="ATLAS" />
+      <img src="./atlas3.gif" width="60%" height="60%" alt="Loading..." title="ATLAS" />
       <br />
       <strong>ATLAS — Adaptive Task Learning Agent System</strong>
       <br />
