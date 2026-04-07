@@ -9,7 +9,7 @@
 
   <tr>
     <td align="center" width="100%" height="300" >
-      <img src="./Box.gif" width="40%" height="40%" alt="Loading..." title="BOX — Autonomous Software Delivery System" />
+      <img src="./atlas.gif" width="40%" height="40%" alt="Loading..." title="BOX — Autonomous Software Delivery System" />
       <br />
       <strong>ATLAS — Adaptive Task Learning Agent System</strong>
       <br />
@@ -59,3 +59,4 @@
 </table>
 
 </div>
+![atlas](https://github.com/user-attachments/assets/2a0ff3c9-024c-439c-8ab9-8b6c95b22df4)
