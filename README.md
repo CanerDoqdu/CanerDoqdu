@@ -11,6 +11,7 @@
     <td align="center" width="100%" height="300" >
       <img src="./atlas4.gif" width="50%" height="50%" alt="Loading..." title="ATLAS" />
       <br />
+        <br />
       <strong>ATLAS — Adaptive Task Learning Agent System</strong>
       <br />
       <sub></sub>
