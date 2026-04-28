@@ -49,7 +49,7 @@
       <sub>Next.js • Stripe • Supabase • PostgreSQL • E-Commerce</sub>
     </td>
     <td align="center" width="50%" height="170" valign="bottom">
-      <img src="./authh.gif" width="127" height="95" alt="Loading..." title="Mini Auth System preview" />
+      <img src="./auth.gif" width="127" height="95" alt="Loading..." title="Mini Auth System preview" />
       <br />
       <strong>Mini Auth System</strong>
       <br />
