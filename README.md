@@ -16,7 +16,7 @@
       <br />
       <sub></sub>
       <br />
-      <sub>Node.js • Docker • Claude API • GitHub API • Multi-Agent Orchestration • Real-time Dashboard • ESM</sub>
+      <sub>• GitHub API • Multi-Agent Orchestration • Real-time Dashboard • Electron</sub>
     </td>
   </tr>
 
